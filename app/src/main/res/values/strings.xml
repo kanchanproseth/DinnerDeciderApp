@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dinner Decider App</string>
+    <string name="successful_message">Food is added successfully</string>
+</resources>
