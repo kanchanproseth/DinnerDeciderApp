@@ -4,6 +4,8 @@ Course: Mobile Device Application CS473
 
 Assignment Name: Dinner Decider App
 
+![alt text](https://github.com/kanchanproseth/DinnerDeciderApp/blob/main/screenshots/Screenshot_20231029_132452.png?raw=true)
+
 ### MainActivity
 
 #### on click add food to Food List, show toast alert and clear text.
